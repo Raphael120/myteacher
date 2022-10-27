@@ -30,6 +30,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 - [Python](https://www.python.org/)
 - [Django](https://www.djangoproject.com/)
 - [Django REST framework](https://www.django-rest-framework.org/)
+- [SQLite](https://www.sqlite.org/index.html)
 - [django-cors-headers](https://pypi.org/project/django-cors-headers/)
 
 
@@ -44,7 +45,7 @@ Antes de começar, você precisa ter o [Python](https://www.python.org/downloads
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/Raphael120/myteacher
+$ git clone https://github.com/raphael-araujo/myteacher
 
 # Entre na pasta
 $ cd myteacher
